@@ -1,7 +1,7 @@
 {
   "name": "@definejs/script",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "js 脚本工具。",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
